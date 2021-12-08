@@ -1,6 +1,6 @@
 {
   "name": "pre-highlighted",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "HTML5 custom element for syntax highlighting (powered by ShikiJS)",
   "main": "index.js",
   "scripts": {

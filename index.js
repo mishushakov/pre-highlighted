@@ -3,7 +3,7 @@ class PreHighlighted extends HTMLPreElement {
     super()
     this.lang = this.getAttribute('lang') || 'html'
     this.theme = this.getAttribute('theme') || 'nord'
-    this.code = unescape(this.innerHTML.trim())
+    this.code = unescape(this.innerHTML)
 
     if (!this.firstChild) {
       const placeholder = document.createTextNode('<empty>')
