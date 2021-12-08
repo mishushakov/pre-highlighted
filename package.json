@@ -1,0 +1,25 @@
+{
+  "name": "pre-highlighted",
+  "version": "1.0.1",
+  "description": "HTML5 custom element for syntax highlighting (powered by ShikiJS)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mishushakov/pre-highlighted.git"
+  },
+  "keywords": [
+    "syntax highlight",
+    "code highlight",
+    "webcomponents",
+    "custom element"
+  ],
+  "author": "Mish Ushakov <mishushakov@users.noreply.github.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mishushakov/pre-highlighted/issues"
+  },
+  "homepage": "https://github.com/mishushakov/pre-highlighted#readme"
+}
