@@ -2,7 +2,7 @@
 
 HTML5 custom element that extends `<pre>` element with syntax highlighting using ShikiJS
 
-https://user-images.githubusercontent.com/10400064/145209449-5a13c14d-9768-4d35-a267-cc6996e79b54.mov
+https://user-images.githubusercontent.com/10400064/145210244-e19c9299-2b8e-422f-8d2c-3e0bca9a00f0.mov
 
 ## Installation
 
